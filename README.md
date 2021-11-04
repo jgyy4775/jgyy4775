@@ -16,14 +16,14 @@
 * [Graph R-CNN +]
 * [VSGG-Net]
 * [SG4RMT]  
-* [ADNI Prediction Project](https://github.com/jaeyun95/AD_Prediction)  
+* [ADNI Prediction Project](https://github.com/jgyy4775/AD_Prediction)  
 
 
 ## 🎓My Papers
 
 
 ## 🏆My Awards
-* [2020 온라인 춘계정보처리학회 최우수 논문상]
+* [2020 온라인 춘계정보처리학회 최우수논문상]
  
 
 ## 📖My Studies   
