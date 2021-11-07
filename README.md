@@ -28,7 +28,7 @@
 
 
 ## 🏆My Awards
-* [2020 온라인 춘계정보처리학회 최우수논문상](https://github.com/jgyy4775/jgyy4775/tree/main/Awards)
+* [2020 온라인 춘계정보처리학회 최우수논문상](https://github.com/jgyy4775/jgyy4775/tree/main/Awards) 
  
 
 ## 📖My Studies   
