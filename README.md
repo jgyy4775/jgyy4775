@@ -39,3 +39,12 @@
 * Visual Relationship Detection
 * Graph Reasoning
 * [Algorithm](https://github.com/jgyy4775/Algorithm)
+
+
+
+<div align=center>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jgyy4775)](https://github.com/anuraghazra/github-readme-stats)   
+
+
+</div>
