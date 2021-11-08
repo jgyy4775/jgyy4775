@@ -35,5 +35,6 @@
 * Deep Learning
 * Computer Vision
 * Scene Graph Generation
+* Visual Relationship Detection
 * Graph Reasoning
 * [Algorithm](https://github.com/jgyy4775/Algorithm)
