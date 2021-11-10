@@ -13,8 +13,10 @@
   
 
 ## 💻My Projects   
+* [Audio Steganography]
 * [Graph R-CNN +]
 * [VSGG-Net]
+* [AI Class Homework - Image Classification]
 * [SG4RMT]  
 * [Miseang Project]
 * [ADNI Prediction Project](https://github.com/jgyy4775/AD_Prediction)  
