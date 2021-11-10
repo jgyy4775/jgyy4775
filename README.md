@@ -14,6 +14,7 @@
 
 ## 💻My Projects   
 * [Audio Steganography]
+* [Mini Studio]
 * [Graph R-CNN +]
 * [VSGG-Net]
 * [AI Class Homework - Image Classification]
@@ -35,7 +36,8 @@
  
 
 ## 📖My Studies   
-* Deep Learning
+* Deep Learning with PyTorch
+* Deep Learning with Tensorflow
 * Computer Vision
 * Scene Graph Generation
 * Visual Relationship Detection
