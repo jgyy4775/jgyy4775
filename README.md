@@ -13,14 +13,16 @@
   
 
 ## 💻My Projects   
-* [Audio Steganography]
-* [Mini Studio]
 * [Graph R-CNN +]
 * [VSGG-Net]
-* [AI Class Homework - Image Classification]
-* [SG4RMT]  
+* [SG4RMT] 
 * [Miseang Project]
+* [AI Class Homework - Image Classification]
 * [ADNI Prediction Project](https://github.com/jgyy4775/AD_Prediction)  
+* [Mini Studio - Android App Project]
+* [Audio Steganography - Computer Security Project]
+* [AtoZ Project Scheduler - Web Service Project]
+* [Bus Reservation System - JAVA Project]
 
 
 ## 🎓My Papers
@@ -42,6 +44,7 @@
 * Scene Graph Generation
 * Visual Relationship Detection
 * Graph Reasoning
+* Graph Model
 * [Algorithm](https://github.com/jgyy4775/Algorithm)
 
 
