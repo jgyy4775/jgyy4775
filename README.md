@@ -19,7 +19,7 @@
 * [Miseang Project]
 * [AI Class Homework - Image Classification]
 * [ADNI Prediction Project](https://github.com/jgyy4775/AD_Prediction)  
-* [Mini Studio - Android App Project]
+* [Mini Studio - Android App Project](https://github.com/jgyy4775/MINISTUDIO)
 * [Audio Steganography - Computer Security Project]
 * [AtoZ Project Scheduler - Web Service Project]
 * [Bus Reservation System - JAVA Project]
