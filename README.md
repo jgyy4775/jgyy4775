@@ -38,7 +38,7 @@
  
 
 ## 📖My Studies   
-* Deep Learning with PyTorch
+* [Deep Learning with PyTorch](https://github.com/jgyy4775/3-min-pytorch)
 * Deep Learning with Tensorflow
 * Computer Vision
 * Scene Graph Generation
