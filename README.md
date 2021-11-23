@@ -45,7 +45,7 @@
 * Visual Relationship Detection
 * Graph Reasoning
 * Graph Model
-* Algorithm[Baekjoon](https://github.com/jgyy4775/Algorithm) [Programmers](https://github.com/jgyy4775/Algorithm-Programmers)
+* Algorithm [[Baekjoon]](https://github.com/jgyy4775/Algorithm) [[Programmers]](https://github.com/jgyy4775/Algorithm-Programmers)
 
 
 
