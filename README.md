@@ -13,16 +13,16 @@
   
 
 ## 💻My Projects   
-* [Graph R-CNN +]
-* [VSGG-Net]
-* [SG4RMT] 
-* [Miseang Project]
-* [AI Class Homework - Image Classification]
+* [Graph R-CNN +](https://github.com/jgyy4775/GraphRCNN)
+* [VSGG-Net](https://github.com/jgyy4775/VSGG-Net)
+* [SG4RMT](https://github.com/jgyy4775/SG4RMT)
+* [Miseang Project](https://github.com/jgyy4775/MiseangProject)
+* [AI Class Homework - Image Classification](https://github.com/jgyy4775/AI-Homework)
 * [ADNI Prediction Project](https://github.com/jgyy4775/AD_Prediction)  
 * [Mini Studio - Android App Project](https://github.com/jgyy4775/MINISTUDIO)
-* [Audio Steganography - Computer Security Project]
-* [AtoZ Project Scheduler - Web Service Project]
-* [Bus Reservation System - JAVA Project]
+* [Audio Steganography - Computer Security Project](https://github.com/jgyy4775/AudioSteganography)
+* [AtoZ Project Scheduler - Web Service Project](https://github.com/jgyy4775/AtoZ)
+* [Bus Reservation System - JAVA Project](https://github.com/jgyy4775/BusReservationSystem)
 
 
 ## 🎓My Papers
@@ -45,8 +45,9 @@
 * Visual Relationship Detection
 * Graph Reasoning
 * Graph Model
-* [Algorithm-Baekjoon](https://github.com/jgyy4775/Algorithm)
-* [Algorithm-Programmers](https://github.com/jgyy4775/Algorithm-Programmers)
+* [Algorithm Basic](https://github.com/jgyy4775/python-for-coding-test)
+* [Algorithm Baekjoon](https://github.com/jgyy4775/Algorithm)
+* [Algorithm Programmers](https://github.com/jgyy4775/Algorithm-Programmers)
 
 
 
