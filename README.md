@@ -54,6 +54,11 @@
 <div align=center>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jgyy4775)](https://github.com/anuraghazra/github-readme-stats)   
-
+buefy: {
+    title_color: "7957d5",
+    icon_color: "ff3860",
+    text_color: "363636",
+    bg_color: "ffffff",
+  }
 
 </div>
