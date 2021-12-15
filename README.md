@@ -27,10 +27,10 @@
 
 ## 🎓My Papers
 * [Scene Graph Generation with Graph Neural Network and Multimodal Context](http://kips.or.kr/bbs/confn/article/1303) - 2020 KIPS
-* [Multimodal Context Embedding for Scene Graph Generation](http://jips-k.org/digital-library/2020/16/6/1250) - 2020 JIPS(SCOPUS)
-* [Tracklet Pair Proposal and Context Reasoning for Video Scene Graph Generation](https://www.mdpi.com/1424-8220/21/9/3164) - 2021 MDPI Sensors(SCIE)
+* [Multimodal Context Embedding for Scene Graph Generation](http://jips-k.org/digital-library/2020/16/6/1250) - 2020 JIPS (SCOPUS)
+* [Tracklet Pair Proposal and Context Reasoning for Video Scene Graph Generation](https://www.mdpi.com/1424-8220/21/9/3164) - 2021 MDPI Sensors (SCIE)
 * 비디오 장면 그래프 생성을 위한 심층 신경망 모델의 설계 및 구현- Master's thesis
-* Dynamic 3D Scene Graph Generation for Robotic Manipulation Tasks - 2021 JICRS(SCOPUS)(12월 게재예정)
+* [Dynamic 3D Scene Graph Generation for Robotic Manipulation Tasks](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10671832) - 2021 JICRS (SCOPUS)
 
 
 ## 🏆My Awards
