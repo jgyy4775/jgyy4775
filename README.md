@@ -4,7 +4,7 @@
 
  
 
-# GaYoung's GitHu😚
+# GaYoung's GitHub😚
 </div>   
 
 ---
