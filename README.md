@@ -20,6 +20,7 @@
 * [AI Class Homework - Image Classification](https://github.com/jgyy4775/AI-Homework)
 * [ADNI Prediction Project](https://github.com/jgyy4775/AD_Prediction) 
 * [AD CVR Prediction Project](https://github.com/jgyy4775/AD-CVR-Prediction) 
+* [Programmers Recruitment Recommendation](https://github.com/jgyy4775/Recruitment-Recommendation)
 * [Mini Studio - Android App Project](https://github.com/jgyy4775/MINISTUDIO)
 * [Audio Steganography - Computer Security Project](https://github.com/jgyy4775/AudioSteganography)
 * [AtoZ Project Scheduler - Web Service Project](https://github.com/jgyy4775/AtoZ)
@@ -50,6 +51,7 @@
 * [Algorithm Baekjoon](https://github.com/jgyy4775/Algorithm)
 * [Algorithm Programmers](https://github.com/jgyy4775/Algorithm-Programmers)
 * [T-academy](https://github.com/jgyy4775/Tacademy)
+* [Data Science]
 
 
 
