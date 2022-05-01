@@ -51,7 +51,7 @@
 * [Algorithm Baekjoon](https://github.com/jgyy4775/Algorithm)
 * [Algorithm Programmers](https://github.com/jgyy4775/Algorithm-Programmers)
 * [T-academy](https://github.com/jgyy4775/Tacademy)
-* [Data Science]
+* Data Science
 
 
 
