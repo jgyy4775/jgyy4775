@@ -39,8 +39,8 @@
 * [2020 온라인 춘계정보처리학회 최우수논문상](https://github.com/jgyy4775/jgyy4775/tree/main/Awards)   
  
  
-## 🏆My Patent
-* [국내 특허 출원] 심층 신경망을 이용한 장면 그래프 생성 시스템(System for generating scene graph using deep neural network)(https://doi.org/10.8080/1020200106363)
+## ⚡My Patent
+* [국내 특허 출원] [심층 신경망을 이용한 장면 그래프 생성 시스템(System for generating scene graph using deep neural network)](https://doi.org/10.8080/1020200106363)
 * [PCT 국제 특허 출원] KR 10-2020-0106363, 심층 신경망을 이용한 장면 그래프 생성 시스템
 
 
