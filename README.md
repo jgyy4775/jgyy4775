@@ -58,7 +58,8 @@
 * [T-academy](https://github.com/jgyy4775/Tacademy)
 * Data Science
 * Key Information Extraction
-* Fake Detection
+* Face Anti Spoofing
+* Face Forgery Detection
 
 
 
