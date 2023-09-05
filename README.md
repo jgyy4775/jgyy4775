@@ -9,7 +9,9 @@
 
 ---
 ## 🏠My HomePages
-* [Naver Blog](https://blog.naver.com/jgyy4775)   
+* [LinkedIn](www.linkedin.com/in/가영-정-90825b264)
+* [Naver Blog](https://blog.naver.com/jgyy4775)
+* [Tistory](https://ga02-ailab.tistory.com/)
   
 
 ## 💻My Projects   
@@ -42,6 +44,7 @@
 ## ⚡My Patent
 * [국내 특허 출원] [심층 신경망을 이용한 장면 그래프 생성 시스템(System for generating scene graph using deep neural network)](https://doi.org/10.8080/1020200106363)
 * [PCT 국제 특허 출원] KR 10-2020-0106363, 심층 신경망을 이용한 장면 그래프 생성 시스템
+* [국내 특허 출원] 이미지 판별 방법 및 그 시스템
 
 
 ## 📖My Studies   
@@ -58,8 +61,7 @@
 * [T-academy](https://github.com/jgyy4775/Tacademy)
 * Data Science
 * Key Information Extraction
-* Face Anti Spoofing
-* Face Forgery Detection
+* Live Fake Detection
 
 
 
