@@ -9,7 +9,6 @@
 
 ---
 ## 🏠My HomePages
-* [LinkedIn](www.linkedin.com/in/gayoung0212)
 * [Naver Blog](https://blog.naver.com/jgyy4775)
 * [Tistory](https://ga02-ailab.tistory.com/)
   
