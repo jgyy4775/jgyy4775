@@ -9,7 +9,7 @@
 
 ---
 ## 🏠My HomePages
-* [LinkedIn]([www.linkedin.com/in/가영-정-90825b264](https://www.linkedin.com/in/%EA%B0%80%EC%98%81-%EC%A0%95-90825b264/))
+* [LinkedIn](www.linkedin.com/in/gayoung0212)
 * [Naver Blog](https://blog.naver.com/jgyy4775)
 * [Tistory](https://ga02-ailab.tistory.com/)
   
