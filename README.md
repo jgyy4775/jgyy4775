@@ -64,8 +64,8 @@
 
 
 
-<div align=center>
+<!--div align=center>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jgyy4775&show_icons=true&title_color=7957d5&icon_color=7957d5&text_color=363636&bg_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)   
 
-</div>
+</div--!>
