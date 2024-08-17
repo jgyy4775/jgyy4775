@@ -43,7 +43,7 @@
 ## ⚡My Patent
 * [국내 특허 출원] [심층 신경망을 이용한 장면 그래프 생성 시스템(System for generating scene graph using deep neural network)](https://doi.org/10.8080/1020200106363)
 * [PCT 국제 특허 출원] KR 10-2020-0106363, 심층 신경망을 이용한 장면 그래프 생성 시스템
-* [국내 특허 출원] 이미지 판별 방법 및 그 시스템
+* [국내 특허 출원/등록] [이미지 판별 방법 및 그 시스템](https://doi.org/10.8080/1020230052529) 
 
 
 ## 📖My Studies   
@@ -61,6 +61,8 @@
 * Data Science
 * Key Information Extraction
 * Live Fake Detection
+* Diffusion
+* Image Enhancement
 
 
 
